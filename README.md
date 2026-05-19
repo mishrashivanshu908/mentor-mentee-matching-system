@@ -468,20 +468,5 @@ The complete project report covers:
 - Conclusion & Future Scope
 - IEEE-format references
 
----
 
-## 📄 License
 
-```
-MIT License — Free to use, modify, and distribute with attribution.
-```
-
----
-
-<div align="center">
-
-**If this project helped you, please consider giving it a ⭐**
-
-Made with ☕ at IIIT Bhopal · Department of CSE
-
-</div>
