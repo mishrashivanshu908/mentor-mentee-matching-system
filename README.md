@@ -8,7 +8,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**An ML-powered recommendation system that intelligently matches CSE students to faculty mentors based on subject preference alignment — with hard capacity constraints and zero interaction history.**
+**An ML-powered recommendation system that intelligently matches CSE students to faculty mentors based on subject preference alignment - with hard capacity constraints and zero interaction history.**
 
 [📖 Report](#-report) · [🚀 Quick Start](#-quick-start) · [📊 Results](#-results) · [🔬 Methodology](#-methodology)
 
@@ -468,5 +468,19 @@ The complete project report covers:
 - Conclusion & Future Scope
 - IEEE-format references
 
+---
+
+## 📄 License
+
+```
+MIT License — Free to use, modify, and distribute with attribution.
+```
+
+---
+
+<div align="center">
+
+**If this project helped you, please consider giving it a ⭐**
 
 
+</div>
